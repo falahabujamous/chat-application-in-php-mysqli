@@ -1,0 +1,31 @@
+.w-400{
+    width: 400px;
+}
+body{
+    background-color:#ff8c6b ;
+}
+.fs-xs{
+    color: azure;
+    font-size: 1.3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+.vh-100{
+min-height:100vh ;
+}
+.w-10{
+    width: 10%;
+}
+a{
+    text-decoration: none;
+    
+}
+.alert {
+    background-color: azure;
+}
+
+.online{
+    width: 10px;
+    height: 10px;
+    background: green;
+    border-radius: 50%;
+}
